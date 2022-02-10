@@ -12,6 +12,6 @@ I built this program in order to find a way to gain insight into public opinion 
 This project required me to learn how to use APIs to request data from websites. Using TextBlob, also familariazed myself with sentiment analysis and natural language processing. This project was an opportunity to learn how to load data into files as well.
 
 ## Libraries used
--csv
--requests
--Textblob
+- csv
+- requests
+- Textblob
