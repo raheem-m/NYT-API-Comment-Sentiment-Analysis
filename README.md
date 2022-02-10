@@ -15,3 +15,6 @@ This project required me to learn how to use APIs to request data from websites.
 - csv
 - requests
 - Textblob
+
+## Installing and Running 
+This is a simple python script. It can be ran in IDLE or using the command line, given the dependencies are installed
